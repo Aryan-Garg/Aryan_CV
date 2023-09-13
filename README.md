@@ -5,9 +5,11 @@
 
 ---
 
+The icons below my name will take you to these links (in the same order):
 1. LinkedIn: https://www.linkedin.com/in/aryan-garg-ba511819b/
-2. Email: aryangarg019@gmail.com
-3. Phone. No: +918219383122
+2. GitHub: [https://www.github.com/Aryan-Garg/](https://github.com/Aryan-Garg)
+3. Email: aryangarg019@gmail.com
+4. Phone. No: +918219383122
    
 
 > Recommended viewing: Download PDF and use Adobe Acrobat Reader.         
